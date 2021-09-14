@@ -14,7 +14,7 @@ const HOST = process.env.HOST || "0.0.0.0";
 app.use(helmet());
 
 app.use("/api/games",(req,res) => {
-    res.status(200).json(games)
+    res.status(200).send(games)
 })
 
 app.listen(PORT,HOST,()=> {
