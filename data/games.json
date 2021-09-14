@@ -1,0 +1,33 @@
+{
+    "games": [
+        {
+            "id":"half-life-2",
+            "title": "Half Life 2",
+            "releaseDate": "16/11/2004",
+            "rating": 96,
+            "price": 19.99,
+            "shortDescription": "One of the greatest shooters ever made, a masterpiece of the genre and the game that changed how story driven FPS games were made, 96 headcrabs out of 100",
+            "genre": "FPS",
+            "publisher": "Valve"
+        },
+        {
+            "id":"dota-2",
+            "title": "Dota 2",
+            "releaseDate": "09/07/2013",
+            "rating": 99,
+            "price": 0.00,
+            "shortDescription": "A MOBA Inspired by the Warcraft 3 map DotA All-Stars. This game is famous for being a second job and for driving people insane when a smurf 8k Tinker wrecks your games but for genuine masochists nothing can ever come close. Another thing is that DOTA 2 is the most successful e-sports game by prize money, 100 Wex Invokers out of 100",
+            "genre": "MOBA",
+            "publisher": "Valve"
+        }, {
+            "id":"nioh-2",
+            "title": "Nioh 2",
+            "releaseDate": "13/03/2021",
+            "rating": 95,
+            "price": 59.99,
+            "shortDescription": "Nioh 2 is a Single Player Action RPG developed by the infamous Team-NINJA. Similar to other souls-like games it's a masochists fantasy. Brutal and unforgiving but at the same time fair, espepcially when you are watching other people play it. Strong reccomendation if you want to learn human suffering through the interactive medium of video games 95 cheap deaths out of 100",
+            "genre": "ARPG",
+            "publisher": "KOEI Tecmo"
+        }
+    ]
+}
