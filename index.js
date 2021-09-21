@@ -24,7 +24,7 @@ app.use("/api/games", (req, res) => {
 });
 
 app.use("/api/cars", (req, res) => {
-  res.set("Content-Type", "applicaiton/json");
+  res.set("Content-Type", "application/json");
 
   res.status(200).send(cars);
 });
