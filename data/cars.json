@@ -1,0 +1,67 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "FORD",
+      "model": "Escort",
+      "yearOfProduction": "1997",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "brand": "VOLKSWAGEN",
+      "model": "Golf",
+      "yearOfProduction": "2005",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "brand": "TOYOTA",
+      "model": "Yaris",
+      "yearOfProduction": "2012",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "brand": "VOLKSWAGEN",
+      "model": "Polo",
+      "yearOfProduction": "2001",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "brand": "VOLKSWAGEN",
+      "model": "T-Roc",
+      "yearOfProduction": "2020",
+      "inStock": false
+    },
+    {
+      "id": 6,
+      "brand": "HYUNDAI",
+      "model": "Tucson",
+      "yearOfProduction": "2005",
+      "inStock": false
+    },
+    {
+      "id": 7,
+      "brand": "VOLKSWAGEN",
+      "model": "T-Cross",
+      "yearOfProduction": "2014",
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "brand": "NISSAN",
+      "model": "Skyline GTR",
+      "yearOfProduction": "2002",
+      "inStock": false
+    },
+    {
+      "id": 9,
+      "brand": "FORD",
+      "model": "Mustang",
+      "yearOfProduction": "2005",
+      "inStock": true
+    }
+  ]
+}
