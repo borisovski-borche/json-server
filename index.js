@@ -7,7 +7,7 @@ const cors = require("cors");
 const gamesPath = path.join(process.cwd(), "/data", "/games.json");
 const games = fs.readFileSync(gamesPath, { encoding: "utf-8" });
 
-const carsPath = path.join(process.cwd(), "/data", "/games.json");
+const carsPath = path.join(process.cwd(), "/data", "/cars.json");
 const cars = fs.readFileSync(carsPath, { encoding: "utf-8" });
 
 const app = express();
