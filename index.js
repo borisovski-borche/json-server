@@ -8,7 +8,7 @@ const gamesPath = path.join(process.cwd(), "/data", "/games.json");
 const games = fs.readFileSync(gamesPath, { encoding: "utf-8" });
 
 const carsPath = path.join(process.cwd(), "/data", "/games.json");
-const cars = fs.readFileSync(carsPath, { encoding: "uth-8" });
+const cars = fs.readFileSync(carsPath, { encoding: "utf-8" });
 
 const app = express();
 const PORT = process.env.PORT || "3000";
